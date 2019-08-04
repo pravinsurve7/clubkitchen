@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Honest Food Automation Task" preserve-order="true">
+
+	<test name="Add To Cart" preserve-order="true">
+		<parameter name="browser" value="CHROME" />
+		<parameter name="url" value="https://clubkitchen.at/" />
+		<classes>
+			<class name="tests.AddToCartTest" />
+		</classes>
+	</test>
+</suite>

@@ -1,4 +1,4 @@
-## Honest Food  test automation task
+##Automation task
 * Write automated tests for the following:
     * Automate the add to cart functionality for https://clubkitchen.at
     * Add user provided products to cart for Mamacita Brand
